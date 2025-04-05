@@ -1,8 +1,8 @@
 # danny_portfolio
 # Daniel Tyson - Cybersecurity Specialist Portfolio 🔒💻
 
-![Portfolio Showcase](https://i.imgur.com/JqYe3W2.png)  
-*Professional portfolio featuring web security services, projects, and ethical hacking expertise*
+  
+Professional portfolio featuring web security services, projects, and ethical hacking expertise*
 
  🌐 Live Demo
 View Live Portfolio](https://dannydophlix.github.io/portfolio
